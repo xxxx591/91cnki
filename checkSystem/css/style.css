@@ -192,7 +192,7 @@
 .layui-form-ddzf .layui-input-inline{width: 235px;}
 .layui-form-ddzf .layui-btn{width: 235px; background: #1BA706;}
 .layui-form-ddzf .layui-btn-min{width: 140px; padding: 0; margin: 0; background: #1BA706;}
-.layui-word-min{padding: 0;]}
+.layui-word-min{padding: 0!important;}
 .zffs-s{border: 1px solid #ddd; margin-right: 50px; display: inline-block; vertical-align: middle; width: 140px; height: 38px; text-align: center; box-sizing: border-box; padding: 3px 0;}
 .zffs-s img{display: block; margin: 0 auto; max-height: 100%;}
 .layui-form-ddzf .layui-form-radio span{display: none;}
