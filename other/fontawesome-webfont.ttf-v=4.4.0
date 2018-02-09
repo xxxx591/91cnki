@@ -1,0 +1,423 @@
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+    
+
+<meta charset="utf-8">
+<title>中国知网查重入口_致力于提供全国权威的学术不端论文查重检测服务</title>
+<meta name="keywords" content="中国知网查重,知网查重入口,cnki查重入口,知网检测,知网查重,论文检测，论文查重，知网论文检测,知网论文查重">
+<meta name="description" content="本站为中国知网论文查重入口，涵盖了知网小分解、本科PMLC、硕博VIP5.1、期刊AMLC、知网大分解等检测系统，为高校本硕博毕业生提供权威的学位论文查重服务，检测结果与学校一致让你轻松通过学校论文检测。">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="/resources/css/css.css">
+    <link rel="stylesheet" href="/resources/css/swiper.min.css">
+    <link rel="stylesheet" href="/resources/layui/css/layui.css">
+</head>
+<body>
+<!-- 你的HTML代码 -->
+<!----header---->
+
+
+
+<!----header---->
+<div class="header">
+    <div class="head">
+        <a href="/" class="logo">
+            <img src="/resources/images/logo.png" alt="论文检测" title="" style="width:215px;">
+        </a>
+        <div class="nav-d">
+            <ul class="layui-nav layui-nav-index" lay-filter="">
+                <li class="layui-nav-item layui-this"><a href="/">首页</a></li>
+                <li class="layui-nav-item "><a href="/checkSystem/index.html">知网查重入口</a></li>
+                <li class="layui-nav-item "><a href="/check/report.html">知网报告下载</a></li>
+                <li class="layui-nav-item "><a href="/check/gaichong.html">知网改重助手</a></li>
+                <li class="layui-nav-item "><a href="/introduce/index.html">知网查重介绍</a></li>
+                
+                <li class="layui-nav-item"><a href="http://check7.cnki.net/codeverify/" target="_blank">真伪查询</a></li>
+                <li class="layui-nav-item "><a href="/active/index.html">获取优惠券</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+<section class="banner clr">
+    <div class="swiper-banner swiper-container-horizontal">
+        <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1200px, 0px, 0px);">
+            <div class="swiper-slide swiper-slide-prev" style="width: 1200px;">
+                <div class="bg-nr">
+                    <div class="main-banner">
+                        <h2>知网论文查重检测系统 毕业论文查重入口</h2>
+                        <ul class="desc-banner clr">
+                            <li>高校论文查重入口，检测结果<span>100%</span>与学校、杂志社相同！
+                                <a href="/demo/index.html">[查看知网检测报告单样例]</a>
+                            </li>
+                            <li>学术不端文献知网检测系统支持本、硕、博各专业论文检测 ! 支持“中国知网”
+                                <span>
+                                <a href="http://check7.cnki.net/codeverify/" rel="nofollow" target="_blank">验证真伪</a>
+                                </span>!
+                            </li>
+                            <li>知网论文查重系统价格为
+                                <span>38元</span>/篇<a
+                                        href="/check/submit/amlc.html"
+                                        target="_blank">(期刊)</a>、
+                                <span>128元</span>/篇<a
+                                        href="/check/submit/pmlc.html"
+                                        target="_blank">（本科）</a>、
+                                <span>280元</span>/篇<a
+                                        href="/check/submit/tmlc.html"
+                                        target="_blank">(硕博)</a>。
+                            </li>
+                            <li><span>24小时</span>自助，检测直连官方，<span>论文安全不泄露</span>。30分钟-2小时下载报告。<a
+                                    href="/process/index.html">[知网查重流程]</a></li>
+                            <li>论文重复率事关紧要，
+                                <span>
+                                <a href="/checkSystem/index.html" target="_blank">检测务必认准高校论文查重入口</a>
+                                </span>，知网查重结果有保证，勿因小失大！</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide swiper-slide-active" style="width: 1200px;">
+                <a class="bg-img" href="/active/index.html" target="_blank" style="display:block;">
+                    <img src="/resources/images/banner04.png">
+                </a>
+            </div>
+
+        </div>
+
+
+        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span
+                class="swiper-pagination-bullet"></span><span
+                class="swiper-pagination-bullet swiper-pagination-bullet-active"></span></div>
+    </div>
+</section>
+
+<!-- process -->
+<section class="process index-inner">
+    <p class="list-zero"><strong>公告-谨防假报告：</strong> 目前网络流传很多<span>低价假的</span>知网检测，友情提示：所有检测报告不能在知网官方验证<span>均为假货</span>，请注意识别。
+    </p>
+    <ul class="process-list">
+        <li class="list-one fl">1.选择查重系统</li>
+        <li class="list-two fl">2.上传论文</li>
+        <li class="list-three fl">3.担保交易付款</li>
+        <li class="list-four fl">4.下载论文查重报告</li>
+        <li class="list-five fl">5.确认评价</li>
+    </ul>
+</section>
+<!-- process end -->
+<section class="testing">
+    <ul class="index-inner clr">
+        <li>
+            <div class="li-box">
+                <div class="xz-d-img xz-d-img01">
+                    <span><img src="/resources/images/img02s.png"></span>
+                    <strong>知网小分解查重</strong>
+                    <em>
+                        <a style="color: white;" href="/check/submit/xfj.html"
+                           target="_blank">适用各类论文中稿查重</a>
+                    </em>
+                </div>
+                <h3>知网小分解查重<span>38元/ 每篇</span></h3>
+                <p>适用于各类论文中稿查重，需拆分，单篇字符限制1.4万内 </p>
+                <a class="fast-test" href="/check/submit/xfj.html" title="知网论文查重入口">立即检测</a>
+            </div>
+        </li>
+        <li>
+            <div class="li-box">
+                <div class="xz-d-img xz-d-img01">
+                    <span><img src="/resources/images/img02s.png"></span>
+                    <strong>知网本科PMLC查重</strong>
+                    <em>
+                        <a style="color: white;" href="/check/submit/pmlc.html"
+                           target="_blank">适用大学生本科毕业论文</a>
+                    </em>
+                </div>
+                <h3>知网本科PMLC查重<span>128元/ 每篇</span></h3>
+                <p>权威!!各高校专门用于大学生论文的检测系统，独有的“大学生论文联合比对库”，历届大学生论文都会收录在此系统，单篇字符限制6万内</p>
+                <a class="fast-test" href="/check/submit/pmlc.html" title="知网论文查重入口">立即检测</a>
+            </div>
+        </li>
+        <li>
+            <div class="li-box">
+                <div class="xz-d-img">
+                    <span><img src="/resources/images/img02s.png"></span>
+                    <strong>知网硕博VIP5.1</strong>
+                    <em>
+                        <a style="color: white;" href="/check/submit/tmlc.html"
+                           target="_blank">适用于硕博论文检测</a>
+                    </em>
+                </div>
+                <h3>知网硕博VIP5.1<span>280元／每篇</span></h3>
+                <p>升级！新增两个数据库研究生，硕士，博士，同等学历，MBA专用论文检测系统，与学校100%结果一样，单篇字符限制30万内</p>
+                <a class="fast-test" href="/check/submit/tmlc.html" target="_blank" title="知网论文检测入口">立即检测</a>
+            </div>
+        </li>
+        <li>
+            <div class="li-box">
+                <div class="xz-d-img">
+                    <span><img src="/resources/images/img02s.png"></span>
+                    <strong>知网期刊系统AMLC</strong>
+                    <em>
+                        <a style="color: white;" href="/check/submit/amlc.html"
+                           target="_blank">适用于期刊检测</a>
+                    </em>
+                </div>
+                <h3>知网期刊系统AMLC<span>38元/ 每篇</span></h3>
+                <p>针对编辑部来稿，已发表文献，学校、事业单位业务报告，职称论文的专用文献抄袭检测系统，非学位论文系统，单篇字符限制1.4万内</p>
+                <a class="fast-test" href="/check/submit/amlc.html" title="知网论文查重入口">立即检测</a>
+            </div>
+        </li>
+        <li>
+            <div class="li-box">
+                <div class="xz-d-img">
+                    <span><img src="/resources/images/img02s.png"></span>
+                    <strong>知网大分解</strong>
+                    <em>
+                        <a style="color: white;" href="/check/submit/dfj.html"
+                           target="_blank">适用中、后期检测及定稿</a>
+                    </em>
+                </div>
+                <h3>知网大分解<span>48元/ 每篇</span></h3>
+                <p>适用于中英文论文查重，硕士、博士论文检测，适用中、后期检测及定稿，采用知网SMLC系统，单篇字符限制2.9万内</p>
+                <a class="fast-test" href="/check/submit/dfj.html" title="知网论文查重入口">立即检测</a>
+            </div>
+        </li>
+    </ul>
+</section>
+<!----评价----->
+
+
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide"><p><strong>来自用户151****1564的评价：</strong>初稿先用这个检测了一下，字数有严格要求，超过了不能上传，老师很耐心细致地解答了问题。晚上测的，等了大概40分钟出了结果，0%的复制比，根据标注简单修改了，定稿再用大系统检测一次，以防万一。初稿测完按提示再改改问题不大，大家可以测。 非常贴心，还会再介绍同学光顾的！</p></div>
+        <div class="swiper-slide"><p><strong>来自用户189****7695的评价：</strong>棒！！！神准?和学校的一模一样~~同学推荐的，我们都在这一家查的~报告可以在知网官方检验真伪，我导师看了报告之后也说没问题~~开熏?</p></div>
+        <div class="swiper-slide"><p><strong>来自用户153****5847的评价：</strong>和大多数人一样怀着忐忑的心情来查询，老师细心的解释，安抚了我躁动不安的内心，最后的结果还是不错的，我等待结果用时相对较少，又一次听到了知网检测结果后发出的声音，结果是美好的，还是相信有付出就会有回报！期望明天会更好！ 高效快捷方便总的来说不错，老师很细致解答问题，很满意。</p></div>
+        <div class="swiper-slide"><p><strong>来自用户147****3895的评价：</strong>一直没有来评价，现在已经答辩过了，再来评价的，反正我在这查，第一次查重复率1.9%，第二次答辩过后定终稿查的时候0.7%…一分钱一分货，不要贪便宜查便宜的，有的没有大学生联合对比库，重复的部分一般都是在这个库里重复的多，所以建议大家定稿时，选择库全的查，这家还是可以的，我也是室友推荐的</p></div>
+        <div class="swiper-slide"><p><strong>来自用户138****9283的评价：</strong>学校查重结果出来了才来评价的！4月初在另一家查了一次很高，对着修改了一周多的时间，又来这家查，发现是3.2%真的又开心又害怕！怎么可能这么低！结果又对着改了一点，学校查出来1%！早知道不改了哈哈哈…担惊受怕这么多天！开心！而且学校查的时候可以看到在这家查的记录！棒！</p></div>
+        <div class="swiper-slide"><p><strong>来自用户155****7697的评价：</strong>真的很棒，查了两次，按照第一次的修改意见大刀阔斧的把红字删了重新写，经过奋战第二次查重复率降到了零，加了封面个人信息之后再用学校的系统查，1.3%。感谢感谢，主要是修改意见帮了大忙了</p></div>
+        <div class="swiper-slide"><p><strong>来自用户买su****823的评价：</strong>完全是按照学校要求查重的，检测文献结果刚开始和学校要求的不一样，后来老师很及时的帮忙解决了，服务态度不错哦。值得大家使用。</p></div>
+        <div class="swiper-slide"><p><strong>来自用户188****1459的评价：</strong>真的和学校一模一样！！！我们一个宿舍6人全部一次过了！非常感谢！因为买的比较多，客服还很好心的给了一定优惠，人很好！！刚收了学校的检测结果才来评价！不是拖，只要学校是知网查重的，这家可以放心选择！</p></div>
+        <div class="swiper-slide"><p><strong>来自用户177****9324的评价：</strong>不得不说，绝对得大大的好评啊，和学校的结果一模一样，分毫不差，都是0%，真的良心店家，并且也验证过了，确实是知网的，推荐给宿舍人结果也是和学校一样的，真的感谢李老师，会再推荐朋友来的！</p></div>
+    </div>
+</div>
+<section class="prestige clr">
+    <div class="top-prestige">
+        <h3>一分钱一分货，毕业论文查重首选“知网论文检测系统”</h3>
+        <small>Preliminary detection selection cheaper systems</small>
+        <span></span>
+    </div>
+    <ul class="main-prestige index-inner clr">
+        <li>
+            <div class="prestige-tell">
+                <h4>为什么选择知网论文查重?</h4>
+                <p> 99% 的高校和杂志社使用知网检测查重系统进行<a href="/" class="add-new-color">毕业论文查重</a>，论文检测工作在大学生论文抄袭管理，学位论文，职称投稿论文查重领域，有效抑制了抄袭，剽窃等学术不端行为！如万方、维普、paperpass等价格便宜的论文检测系统无法与知网查重检测系统相媲美，知网检测查重系统是定稿首选系统！
+                </p>
+            </div>
+        </li>
+        <li>
+            <div class="prestige-tell">
+                <h4>知网论文查重的优势?</h4>
+                <p> “知网查重” 凭借庞大数据库，先进的抄袭率算法。先后推出"知网查重"大学生论文管理系统（PMLC），学术不端知网检测系统（VIP5.1/TMLC2），科研诚信管理系统（AMLC/SMLC）等<a
+                        href="/" class="add-new-color">知网检测查重系统</a>。深得高校，科研机构信赖。 </p>
+            </div>
+        </li>
+        <li>
+            <div class="prestige-tell">
+                <h4>知网论文查重准确吗?</h4>
+                <p> 本站知网检测报告由<a href="/" class="add-new-color">“中国知网”</a>提供。与高校，研究生院，杂志社使用共同数据库，重复率检测结果一致。知网检测报告支持知网查重官方验证。可作为本科毕业论文查重，研究生论文查重，职称论文查重的预查重首选。
+                </p>
+            </div>
+        </li>
+        <li>
+            <div class="prestige-tell">
+                <h4>知网论文查重安全吗?</h4>
+                <p> 论文查重直连<a href="/" class="add-new-color">官方</a>接口，加密传输，最大程度保护用户隐私，及论文安全不泄露。首创微信支付，即可自助上传论文，迎合移动互联网趋势，方便用户操作使用。淘宝交易的担保模式，更加充分保证用户权益。
+                </p>
+            </div>
+        </li>
+    </ul>
+</section>
+<section class="cheat">
+    <div class="top-prestige">
+        <h3>知网论文查重防骗攻略</h3>
+        <small>Service purpose and commitment</small>
+        <span></span></div>
+    <ul class="main-cheat index-inner clr">
+        <li><a href="/"> <span class="iconfont tn fl"></span>
+            <h3 class="tn">杜绝假冒伪劣网址</h3>
+            <p> 随着毕业季的来临，很多网站冒充知网提供查重服务。务必认准知网论文查重(www.cnki.cx)。防止财产损失。 </p>
+        </a></li>
+        <li><a href="/"> <span class="iconfont tn fl"></span>
+            <h3 class="tn">支付和论文安全性</h3>
+            <p> 支持微信扫码，淘宝担保交易。知网检测全程24小时自助。经知网查重授权，最大程度保护用户论文不外泄！ </p>
+        </a></li>
+        <li><a href="/"> <span class="iconfont tn fl"></span>
+            <h3 class="tn">知网查重官方验证</h3>
+            <p> 知网查重报告均支持官方验证，100%正品，所提供知网检测报告保证与学校结果一致的前提下，支持官方验证！ </p>
+        </a></li>
+    </ul>
+</section>
+<!--防骗攻略-->
+<section class="news">
+    <div class="main-news index-inner clr" style="background:#fff;">
+        <div class="news-tell fl">
+            <h3>知网论文查重检测<a class="news-a" href="/checkSystem/index.html">更多..</a></h3>
+            <p> “CNKI 知网查重”学术不端文献知网检测系统（下简称“
+                <a href="/checkSystem/index.html" class="add-new-color">知网论文查重检测系统</a>”）
+                正式发布以来，已在10000多家教育、科研、出版及相关管理机构中广泛使用，在防治学术不端行为的工作中发挥了重要作用。
+            </p>
+        </div>
+        <div class="news-tell fl">
+            <h3>论文写作<a class="news-a" href="/news/index-0.html">更多..</a></h3>
+            <ul>
+                
+                    <li class="li-els">
+                        <span class="times">2017-06-01</span>
+                        <a href="/news/5.html"><span></span>知网论文查重降重七招制胜法</a>
+                    </li>
+                
+                    <li class="li-els">
+                        <span class="times">2017-06-01</span>
+                        <a href="/news/3.html"><span></span>知网论文查重系统在学报编辑工作中的作用</a>
+                    </li>
+                
+                    <li class="li-els">
+                        <span class="times">2017-06-01</span>
+                        <a href="/news/2.html"><span></span>知网论文检测修改实用制胜两招</a>
+                    </li>
+                
+            </ul>
+        </div>
+        <div class="news-tell fl">
+            <h3>知网检测资讯<a class="news-a" href="/news/index-0.html">更多..</a></h3>
+            <ul>
+                
+                    <li class="li-els">
+                        <span class="times">2017-06-01</span>
+                        <a href="/news/9.html"><span></span>北华大学机械工程学院2017届毕业论文检测要求</a>
+                    </li>
+                
+                    <li class="li-els">
+                        <span class="times">2017-06-01</span>
+                        <a href="/news/4.html"><span></span>知网论文查重为什么是论文查重行业老大？</a>
+                    </li>
+                
+                    <li class="li-els">
+                        <span class="times">2017-06-01</span>
+                        <a href="/news/1.html"><span></span>知网论文查重方便快捷</a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+<section class="service">
+    <ul class="service-list index-inner clr">
+        <li class="service-one fl"><span class="list-icon fl"></span>
+            <div class="service-content fl"><span class="title">如实描述承诺</span> <span>卖家会遵守检测服务中的描述承诺</span></div>
+        </li>
+        <li class="service-two fl"><span class="list-icon fl"></span>
+            <div class="service-content fl"><span class="title">知网正品保障</span> <span>CNKI中国高校论文知网查重入口</span></div>
+        </li>
+        <li class="service-three fl"><span class="list-icon fl"></span>
+            <div class="service-content fl"><span class="title">如实描述承诺</span> <span>卖家已缴纳足额保证金来确保安全</span></div>
+        </li>
+        <li class="service-four fl"><span class="list-icon fl"></span>
+            <div class="service-content fl"><span class="title">售后服务保障</span> <span>知网论文查重提供全面的售后服务</span></div>
+        </li>
+    </ul>
+</section>
+<!-------footer------->
+<footer>
+    <div class="main-footer index-inner">
+        <ul class="nav-footer">
+            <li><a href="/">首页</a></li>
+            <li><a target="_blank" href="/about/index.html">联系我们</a></li>
+            <li><a target="_blank" href="/link/index.html">关于我们</a></li>
+            <li><a href="/checkSystem/index.html">查重入口</a></li>
+            <li><a href="/checkSystem/index.html">查重软件</a></li>
+            <li><a href="/map/index.html">网站地图</a></li>
+            <li>
+                <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1263348599'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/z_stat.php%3Fid%3D1263348599%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+            </li>
+        </ul>
+        <div class="footer-content clr">
+            <p> copyright@2002-2017 All Right Reserved <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备16033481号</a> 湖南中海邦科技有限公司 360网站安全检测平台
+            </p>
+        </div>
+    </div>
+</footer>
+<!----客服弹框----->
+
+
+<script type="text/javascript">
+    //返回顶部
+    function goTop() {
+        $('html,body').animate({'scrollTop': 0}, 600);
+    }
+</script>
+<div class="kf">
+    <a class="qq" target="_blank" rel="nofollow"
+       href="tencent://message/?uin=3404258089&amp;Site=www.cnki.cx&amp;Menu=yes">
+        <i class="kf-a1"></i>
+        <span>客服QQ</span>
+    </a>
+    <a style="display:none" class="ww" target="_blank" rel="nofollow"
+       href="http://amos.alicdn.com/getcid.aw?v=2&uid=everytmall&site=cntaobao&s=2&groupid=0&charset=utf-8">
+        <i class="kf-a3"></i>
+        <span>客服旺旺</span>
+    </a>
+    <a href="javascript:goTop();">
+        <i class="kf-a2"></i>
+        <span>返回顶部</span>
+    </a>
+    <!----二维码---->
+    
+    
+    
+    
+</div>
+
+<script type="text/javascript" src="/resources/js/jquery.min.js"></script>
+<script src="/resources/layui/lay/dest/layui.all.js"></script>
+<script src="/resources/js/swiper.min.js"></script>
+<script>
+    //banner
+    var swiper = new Swiper('.swiper-banner', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        paginationClickable: true,
+        spaceBetween: 0,
+        centeredSlides: true,
+        autoplay: 6000,
+        loop: true,
+        autoplayDisableOnInteraction: false
+    });
+
+    //评价
+    var swiper = new Swiper('.swiper-container', {
+        direction: 'vertical',
+        slidesPerView: 1,
+        paginationClickable: true,
+        mousewheelControl: true,
+        autoplay: 3500
+    });
+
+    function goTop(){
+        $('html,body').animate({'scrollTop':0},600);
+    }
+</script>
+
+</body>
+</html>
